@@ -1,2 +1,6 @@
+# IDE
 .idea/
 .vscode/
+
+# BUILD DIRECTORY
+build
